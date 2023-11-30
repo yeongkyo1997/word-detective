@@ -1,0 +1,22 @@
+package com.ssafy.backend.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+/**
+ * DTO for {@link com.ssafy.backend.entity.User}
+ */
+@Data
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+public class UserRequestDto {
+    private Integer picture;
+    private Integer word;
+    private Integer letter;
+    private Integer cameraPicture;
+    private Integer cameraWord;
+    private Integer cameraLetter;
+}

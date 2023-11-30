@@ -1,0 +1,12 @@
+ultralytics~=8.0.188
+SQLAlchemy~=2.0.21
+boto3~=1.28.55
+python-dotenv~=1.0.0
+fastapi~=0.103.1
+pydantic~=2.3.0
+starlette~=0.27.0
+Pillow~=10.0.1
+uvicorn~=0.15.0
+mysql-connector-python~=8.1.0
+pymysql~=1.1.0
+python-multipart~=0.0.5
