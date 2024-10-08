@@ -117,7 +117,7 @@ _- 아이들이 재미있게 한글 단어를 배울 수 있도록 -_
   
 ## 👪  팀 소개
 
-|         <img src="doc/강경인.png" width="150">          |       <img src="doc/인영교.png" width="150">       |        <img src="doc/최준서.png" width="150">         
+|         <img src="doc/강경인.png" width="150">          |       <img src="doc/인영교.png" width="150">       |        <img src="doc/최준서.png" width="150">         
 |:----------------------------------------------------:|:-----------------------------------------------:|:--------------------------------------------------:|
 | [강경인](https://github.com/gangins)</br>팀장 및 Frontend  | [인영교](https://github.com/yeongkyo1997) </br> AI | [최준서](https://github.com/wnstj7788)  </br> Backend |
 |         <img src="doc/이다영.png" width="150">          |       <img src="doc/송원규.png" width="150">       |        <img src="doc/이준혁.png" width="150">         
